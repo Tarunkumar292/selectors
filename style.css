@@ -1,6 +1,9 @@
 * {
 text-align: center;
 }
+h1,h2{
+    background-color: aqua;
+}
 p.b {
     color:red;
 }
@@ -13,7 +16,7 @@ div p {
   div + p {
     background-color: blue;
   }
-  div ~ p {
+  p ~ h3 {
     background-color: green;
   }
   
