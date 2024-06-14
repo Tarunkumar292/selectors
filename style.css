@@ -4,3 +4,7 @@ text-align: center;
 p.b {
     color:red;
 }
+div p {
+    background-color: yellow;
+  }
+  
